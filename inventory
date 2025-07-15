@@ -1,5 +1,5 @@
 [web_servers]
-ubuntu@3.89.107.201
-ubuntu@67.202.25.9
+ubuntu@54.160.128.25
 [db_servers]
-ubuntu@3.83.51.188
+ubuntu@54.83.118.251
+ubuntu@54.165.239.51
